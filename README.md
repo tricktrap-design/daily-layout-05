@@ -14,7 +14,7 @@ In this particular example I was able to experiment with:
 
 ### Here is a copy of the original version I use for reference:
 
-![Original art](examples/original.png)
+![Original art](examples/original.jpg)
 
 ### The web version is flexible and responsive.
 
