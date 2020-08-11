@@ -176,9 +176,9 @@ body {
 .floatie {
     font-family: $f-lite;
     font-size: 7px;
-    -ms-writing-mode: sideways-lr;
-    writing-mode: sideways-lr;
-    -webkit-writing-mode: sideways-lr;
+    -ms-writing-mode: vertical-lr;
+    writing-mode: vertical-lr;
+    -webkit-writing-mode: vertical-lr;
     display: grid;
     grid-row: 5 / 7;
     grid-column: 1;
